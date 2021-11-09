@@ -1,0 +1,6 @@
+@startuml
+class CalculadoraBasica.Controlador
+class CalculadoraBasica.Modelo
+class java.util.Scanner
+CalculadoraBasica.Controlador ..> java.util.Scanner
+@enduml
